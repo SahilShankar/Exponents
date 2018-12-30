@@ -1,3 +1,3 @@
-#THIS IS A TUTORIAL
+# THIS IS A TUTORIAL
 
 exponents in python using user defined functions
